@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for [Your Name] -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Nit Koriya</h1>
 <h3 align="center">A passionate Full-Stack Java Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on building **RESTful APIs with Spring Boot**
 - 🌱 I’m learning **Microservices**, **Spring Security**, and best practices for scalable Java applications
 - 💬 Ask me about **Java backend development** or **SQL databases**
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **nitkoriya6@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems through clean code and modern technologies!
 
 ---
@@ -52,22 +52,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koriyanit&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koriyanit&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/[your-linkedin-id]/" target="_blank">
+  <a href="https://www.linkedin.com/in/nit-koriya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:nitkoriya6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://[your-portfolio-url]/" target="_blank" rel="noopener noreferrer">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
 </p>
