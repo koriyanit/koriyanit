@@ -61,7 +61,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/nit-koriya/" target="_blank">
+  <a href="https://www.linkedin.com/in/nit-koriya-074a0529a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nitkoriya6@gmail.com">
